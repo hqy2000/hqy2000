@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👋 I'm Qingyang Hu.
+
+<img src="https://github-readme-stats.vercel.app/api?username=hqy2000&show_icons=true&count_private=true">
 
 <!--
 **hqy2000/hqy2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
