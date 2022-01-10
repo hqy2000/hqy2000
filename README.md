@@ -1,10 +1,10 @@
 ### 👋 I'm Qingyang Hu.
 
-- 🔭 I’m working on some fun iOS projects. Checkout [ChinaEMU](https://github.com/hqy2000/ChinaEMU).
-- 🌐 Meanwhile, I'm also a full-stack developer. I can play Vue, Symfony, and Gin well.
+- 🔭 I’m working on some fun iOS projects. Checkout [EMU Tracker](https://github.com/hqy2000/ChinaEMU).
+- 🌐 Meanwhile, I'm also a full-stack developer (Vue, Symfony, and Gin).
 - 🌱 I’m learning digital signal processing. My next project might be something with audio recordings.
 
-<img src="https://github-readme-stats.vercel.app/api?username=hqy2000&show_icons=true&count_private=true">
+<!--<img src="https://github-readme-stats.vercel.app/api?username=hqy2000&show_icons=true&count_private=true">-->
 
 <!--
 **hqy2000/hqy2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
