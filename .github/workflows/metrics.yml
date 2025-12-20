@@ -26,4 +26,4 @@ jobs:
           plugin_languages_details: lines, bytes-size
           plugin_languages_ignored: >-
             html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
-            gnuplot, vb, rft
+            gnuplot, vb, rft, js
