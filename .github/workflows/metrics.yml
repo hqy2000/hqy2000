@@ -23,8 +23,8 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
           plugin_languages_indepth: yes
-          plugin_languages_details: lines, percentage
-          plugin_languages_skipped: hqy2000/PianoBot
+          plugin_languages_details: lines, bytes-size
+          plugin_languages_skipped: hqy2000/PianoBot, nfls/OSSExplorer
           plugin_languages_ignored: >-
             html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
-            gnuplot, vb, visualbasic, basic, rft, js, javascript
+            gnuplot, vb, visualbasic, basic, rft
