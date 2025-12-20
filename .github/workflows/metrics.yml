@@ -25,7 +25,7 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_indepth: yes
           plugin_languages_details: lines, bytes-size
-          plugin_languages_skipped: hqy2000/PianoBot, nfls/OSSExplorer
+          plugin_languages_skipped: hqy2000/PianoBot, nfls/OSSExplorer, nfls/game-fib, nfls/nfls.github.io, hqy2000/UCSDHelper, nfls/wechat
           plugin_languages_ignored: >-
             html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
-            gnuplot, vb, visualbasic, basic, rft, js, javascript, Visual Basic .NET
+            gnuplot, vb, visualbasic, basic, rft, Visual Basic .NET
